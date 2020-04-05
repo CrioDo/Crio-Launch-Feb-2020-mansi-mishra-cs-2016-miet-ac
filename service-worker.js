@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/precache-manifest.f79beedbac036778aa175a83acab53dc.js"
+  "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/precache-manifest.34b83ff04e081c230b29d074a51ea28f.js"
 );
 
 self.addEventListener('message', (event) => {

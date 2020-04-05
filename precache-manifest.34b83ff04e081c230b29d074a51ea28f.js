@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42a3b94237bfc6a7ac4f1914640414a2",
+    "revision": "a42a7d32401f04dc73ed026d57d957e6",
     "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/index.html"
   },
   {
-    "revision": "3e0af7117a2522a0db35",
+    "revision": "2c738501c3be7632cc8d",
     "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "c63729ae009af13e32ad",
+    "revision": "c953c12e17ab145e0a95",
     "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "3e0af7117a2522a0db35",
-    "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/js/2.d37ff74a.chunk.js"
+    "revision": "2c738501c3be7632cc8d",
+    "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/js/2.a4200afd.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/js/2.d37ff74a.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/js/2.a4200afd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c63729ae009af13e32ad",
-    "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/js/main.7df1c4e1.chunk.js"
+    "revision": "c953c12e17ab145e0a95",
+    "url": "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/static/js/main.1b2dd679.chunk.js"
   },
   {
     "revision": "a059cc9bc4bf1f9035da",
