@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/precache-manifest.34b83ff04e081c230b29d074a51ea28f.js"
+  "/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/precache-manifest.dbf7c031b783d6fc107de6d064c0cd95.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -35,5 +35,5 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Crio-Launch-Feb-2020-mansi-mishra-cs-2016-miet-ac/index.html"), {
   
-  blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
+  blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
